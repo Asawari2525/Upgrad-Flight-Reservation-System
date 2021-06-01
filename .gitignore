@@ -1,3 +1,14 @@
+.class
+class Address
+class Passenger
+class Contact
+class Flight
+class Ticket
+Address.java
+Passenger.java
+Contact.java
+Flight.java
+Ticket.java
 # Default ignored files
 /shelf/
 /workspace.xml
